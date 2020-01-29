@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/basic">
+        <file>splash.png</file>
+        <file>splash_01.jpg</file>
+        <file>compilerConf.txt</file>
+        <file>mainIcon.png</file>
+    </qresource>
+</RCC>
